@@ -34,4 +34,6 @@ class MainActivity : AppCompatActivity() {
         super.onStop()
         Log.d("TAG", "onstop")
     }
+
+    //Adicionei o metodo A
 }
